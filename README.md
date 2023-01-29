@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @thejjharris
+- Currently employed full-time, this is for side projects
 - 👀 I’m interested in GIS,  meteorology, astronomy, baseball, and many other things
 - 🌱 I’m currently learning and refreshing web development, python, java, and whatever seems useful
 - 💞️ I’m looking to collaborate on *literally anything!*
